@@ -1,4 +1,5 @@
 title: Patrick Murrell's Webpage
 description: Hello! I am Patrick and this is my webpage
-remote_theme: jekyller/scriptor
+theme: null         # disable gem-based theme
+include: ["_scriptor"]  # include the theme folder
 skin: auto
