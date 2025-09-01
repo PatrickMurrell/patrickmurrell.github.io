@@ -1,8 +1,13 @@
 {
   "links": [
     {
+      "title": "Rss",
+      "icon": "fa-rss",
+      "url": "https://blog.patrickmurrell.com/feed.xml"
+    },
+    {
       "title": "X",
-      "icon": "fa-x-twitter",
+      "icon": "fa-twitter",
       "url": "https://x.com/Disciple_Fit"
     },
     {

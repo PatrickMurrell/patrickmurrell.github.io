@@ -8,9 +8,19 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html', '' | absolute_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }} Feed"
     href="{{ '/feed.xml' | absolute_url }}">
-  {% if site.favicon and site.favicon != "" %}
-  <link rel="shortcut icon" href="{{ site.favicon | relative_url }}" type="image/png" />
-  {% endif %}
+  <!-- Standard favicon -->
+  <link rel="shortcut icon" href="{{ site.baseurl }}/images/favicon/favicon.ico" type="image/x-icon">
+
+  <!-- PNG favicons for modern browsers -->
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ site.baseurl }}/images/favicon/favicon-16x16.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/images/favicon/favicon-32x32.png">
+
+  <!-- Apple touch icon for iOS devices -->
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/images/favicon/apple-touch-icon.png">
+
+  <!-- Android / PWA icons -->
+  <link rel="icon" type="image/png" sizes="192x192" href="{{ site.baseurl }}/images/favicon/android-chrome-192x192.png">
+  <link rel="icon" type="image/png" sizes="512x512" href="{{ site.baseurl }}/images/favicon/android-chrome-512x512.png">
   <!-- Styles -->
   <link href="https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i%7CNoto+Serif:400,400i,700,700i&display=swap" rel="stylesheet">
   <link href="{{ '/assets/css/style.css' | relative_url }}" rel="stylesheet">

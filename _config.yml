@@ -9,19 +9,16 @@
 lang: en-US
 
 # Site title
-title: "Patrick Murrell's Webpage"
+title: "Patrick Murrell's Web Page"
 
 # A description of your site for meta tag, search engine results.
-description: "Hello! I am Patrick and welcome to my webpage"
+description: "Hello! I am Patrick and welcome to my web page!"
 
 # The subpath of your site, e.g. /blog, for generating urls.
 #baseurl: ""
 
 # The base hostname & protocol of your site for where absolute urls are needed.
 url: "https://patrickmurrell.github.io"
-
-# Favicon
-favicon: images/favicon.png
 
 # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 google_analytics: ""
@@ -32,8 +29,8 @@ navigation:
     url: /
   - text: About
     url: /about/
-  - text: Tags
-    url: /tags/
+  - text: Articles
+    url: /articles/
 
 # The shortname for your Disqus site to enable comments.
 # disqus: justgoodthemes
@@ -43,7 +40,8 @@ accent_color: '#2d72d9'
 
 # Site footer
 footer:
-  content: "&copy; Patrick Murrell all rights reserved. Enjoy my work? Consider purchasing a Christian T-Shirt from my shop [Disciple Fitness](https://disciple.fitness/)."
+  content: "Enjoy my work? Consider purchasing a Christian T-Shirt from my shop [Disciple Fitness](https://disciple.fitness/)."
+  copyright: "&copy; Patrick Murrell all rights reserved."
   has_social: true
 
 # Plugins

@@ -2,7 +2,8 @@
 layout: post
 title: "Platitudes Aren't Enough"
 date: 2025-08-26
-feature_image: images/platitudes-arent-enough.png
+feature_image: images/platitudes-arent-enough.jpg
+tags: [Ethics, Personal Journey]
 ---
 
 So I've decided to start a blog. I haven't established a massive internet presence so here is a bit of my background to catch you up on who I am. I am a Catholic Christian who part time runs an online store known as Disciple Fitness as a hobby business. Back in 2023 when I started the store I did so out of ambition to start a new project with the extra free time I had, and also a desire to see more faith based exercise clothing in the world of secular Nike, Adidas, etc. I also thought I had an untapped market and ultimately could do some good with my designs. I was partly inspired by my assessment of fitness and theology connections—something I would like to still write a book about at some point, though that would require much more research. Since I couldn’t find Christian gym wear that resonated with me, I created an apparel business to solve my own problem—and hopefully help others facing the same challenge.
